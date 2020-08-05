@@ -2988,6 +2988,12 @@ Small devices (landscape phones, less than 768px)
     .section-map>.container {
         border: none;
     }
+    .bot1 {
+        float: none!important;
+    }
+    .bot2 {
+        float: none!important;
+    }
 }
 
 
